@@ -1,2 +1,2 @@
-# Nadeesh-Gemini-clone
+# Nadeesh-Gemini
  
