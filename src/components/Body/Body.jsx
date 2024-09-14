@@ -11,7 +11,7 @@ const Main = () => {
     <div className='main'>
       <div className="nav">
         <p>NadSynth</p>
-        <img src={assets.} alt="" />
+        <img src={assets.user_icon} alt="" />
       </div>
       <div className="main-container">
 
@@ -20,7 +20,7 @@ const Main = () => {
         
         <div className="greet">
             <p>
-                <span>Hello, User.</span>
+                <span>Hello, AccenStar.</span>
             </p>
             <p>How can I help you today?</p>
         </div>
