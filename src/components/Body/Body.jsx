@@ -10,8 +10,8 @@ const Main = () => {
   return (
     <div className='main'>
       <div className="nav">
-        <p>Gemini</p>
-        <img src={assets.user_icon} alt="" />
+        <p>NadSynth</p>
+        <img src={assets.} alt="" />
       </div>
       <div className="main-container">
 
